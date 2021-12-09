@@ -1,0 +1,6 @@
+﻿9,5,blue cristal
+1,8,purple cristal
+5,1,pink cristal
+2,4,green cristal
+7,4,apple
+6,6,apple

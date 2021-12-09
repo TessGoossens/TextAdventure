@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VtdVQHGBuQAqxVcqKLCX7s08Sh5a8txy1kIBH+ESdMPD5W9IoFwriiCaycbo1LCyf4+T9WzQgRvcjQqSMLKGxg==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\leerjaar 2\\c#\\TextAdventure\\TextAdeventure\\TextAdeventure\\TextAdeventure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eigenaar\\.nuget\\packages\\documentformat.openxml\\2.13.1\\documentformat.openxml.2.13.1.nupkg.sha512",
+    "C:\\Users\\Eigenaar\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
